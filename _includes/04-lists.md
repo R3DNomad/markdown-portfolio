@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+* Interested in
+  * Web and app development
+  * Game development
+  * Ethical hacking
