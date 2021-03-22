@@ -1,1 +1,3 @@
-Replace this with your name, and include a header.
+# Hello there!!
+## I'm Nihal Sabu George
+##### 3rd year ECE student from MBCET
